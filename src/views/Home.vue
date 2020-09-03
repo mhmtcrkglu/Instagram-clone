@@ -4,19 +4,18 @@
   </div>
 </template>
 
-<script>  
+<script>
 export default {
-  name: "Home"
-};
+  name: 'Home'
+}
 </script>
-
 
 <style scoped>
 h1 {
-  color:red;
+  color: red;
 
-  @media (--t){
-    color:blue
+  @media (--t) {
+    color: blue;
   }
 }
 </style>
