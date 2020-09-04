@@ -10,7 +10,7 @@
 
 <script>
 import CustomText from '@/components/CustomText'
-import IconHome from '../icons/home.svg'
+import IconHome from '../../icons/home.svg'
 
 export default {
   name: 'Home',
